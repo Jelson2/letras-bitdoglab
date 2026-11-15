@@ -1,11 +1,5 @@
-#ifndef SECRETS_H
-#define SECRETS_H
-
-#define WIFI_SSID "LAB_WIFI" 
-#define WIFI_PASSWORD "12345678"
-
-#define SPOTIFY_CLIENT_ID "9cac1639893f4855ac6656abb31bf642"
-#define SPOTIFY_CLIENT_SECRET "b2baabcad4604a8986cd3a4fb1475dfc"
-#define SPOTIFY_REFRESH_TOKEN "AQDN7N9kGNI3aXfnbwcF-9vlKAJzukBsfRBiCerSMqyxfj07yq1bY0jUNP_7O7G4dzKAfNAHd_xIB33HE3-SL_kIwdCp2h_3z6Dp1qH7LoYy8kcxHNlB-u4OugPbtLZOXKs"
-
-#endif
+#define WIFI_SSID "nome_da_rede"
+#define WIFI_PASSWORD "senha_da_rede"
+#define SPOTIFY_CLIENT_ID "seu_client_id"
+#define SPOTIFY_CLIENT_SECRET "seu_client_secret"
+#define SPOTIFY_REFRESH_TOKEN "seu_refresh_token"
