@@ -1,0 +1,9 @@
+# Credenciais (NUNCA enviar ao GitHub)
+src/secrets.h
+
+# Build
+build/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
